@@ -1,1 +1,2 @@
-# PAPER
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
